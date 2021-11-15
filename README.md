@@ -1,6 +1,7 @@
 This repository contains multiple web scraping tasks, which are:
 
 1- Lecture-1, this folder contains program to use requests function in python for doing these tasks:
+
     1.1- Send request to the website with a given url then recive the respons value of the wepsite and print this response
     1.2- Send request to the website with a given url then recive the respons text (html code) of the wepsite and print this code
     1.3- Send request to the website with a given url then recive the respons text (html code) of the wepsite and save this code in the file   
