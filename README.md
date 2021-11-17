@@ -25,4 +25,4 @@ This repository contains multiple web scraping tasks, which are:
     3.8- Function to find all sections in html code with a specific class and the tag name
     
     
- 4- Link_collector, this folder contains simple task to collect all links from a website with a given link and save these links into file.
+ 4- Link_collector, this folder contains simple task to collect all links from a website using BeautifulSoup function  with a given link and save these links into file.
